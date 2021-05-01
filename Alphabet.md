@@ -15,3 +15,9 @@ A K M O T   V Ye N R S U KH P   B T G Ye Z I Ĭ L F E Yu Ya   ZH TS Ch
 Ш  Щ    Ы
 Sh Shch Y
 ```
+
+`A K M O T` are present in english and are pronounced similarly
+
+`В Е  Н P C Y X  П` are different from what we see in english.
+
+`Б Г Д Ё  З И Й Л Ф Э Ю  Я` We don't have them in english.
